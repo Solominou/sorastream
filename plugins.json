@@ -470,25 +470,6 @@
         "name": "Moviehab"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=movierulzhd.best&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/sorastream",
-        "fileSize": 24828,
-        "status": 1,
-        "language": "hi",
-        "authors": [
-            "Hexated"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 32,
-        "internalName": "Movierulzhd",
-        "url": "https://raw.githubusercontent.com/Solominou/sorastream/builds/Movierulzhd.cs3",
-        "name": "Movierulzhd"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=146.19.24.137&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/sorastream",
