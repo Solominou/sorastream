@@ -451,28 +451,6 @@
         "name": "LayarKacaProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=loklok.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/sorastream",
-        "fileSize": 33273,
-        "status": 1,
-        "language": "en",
-        "authors": [
-            "Hexated"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "Anime",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 23,
-        "internalName": "Loklok",
-        "description": "#2 best extension based on Loklok API",
-        "url": "https://raw.githubusercontent.com/Solominou/sorastream/builds/Loklok.cs3",
-        "name": "Loklok"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=moviehab.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/sorastream",
