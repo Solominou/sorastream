@@ -336,7 +336,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/sorastream",
         "fileSize": 51610,
-        "status": 1,
+        "status": 0,
         "language": "en",
         "authors": [
             "Hexated"
@@ -535,7 +535,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/sorastream",
         "fileSize": 16252,
-        "status": 1,
+        "status": 0,
         "language": "en",
         "authors": [
             "Hexated"
@@ -773,7 +773,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/sorastream",
         "fileSize": 9546,
-        "status": 1,
+        "status": 0,
         "language": "en",
         "authors": [
             "Hexated"
@@ -906,7 +906,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/sorastream",
         "fileSize": 19681,
-        "status": 1,
+        "status": 0,
         "language": "en",
         "authors": [
             "Hexated"
