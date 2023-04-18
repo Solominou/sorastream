@@ -1,24 +1,5 @@
 [
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=anifreakz.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/sorastream",
-        "fileSize": 14395,
-        "status": 0,
-        "language": "de",
-        "authors": [
-            "Hexated"
-        ],
-        "tvTypes": [
-            "AnimeMovie",
-            "Anime",
-            "OVA"
-        ],
-        "version": 1,
-        "internalName": "Anifreakz",
-        "url": "https://raw.githubusercontent.com/Solominou/sorastream/builds/Anifreakz.cs3",
-        "name": "Anifreakz"
-    },
+
     {
         "iconUrl": "https://raw.githubusercontent.com/Solominou/sorastream/master/Anilibria/icon.png",
         "apiVersion": 1,
