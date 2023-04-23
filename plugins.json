@@ -200,7 +200,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/sorastream",
         "fileSize": 10948,
-        "status": 1,
+        "status": 0,
         "language": "en",
         "authors": [
             "Sora"
@@ -259,7 +259,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/sorastream",
         "fileSize": 14499,
-        "status": 1,
+        "status": 0,
         "language": "en",
         "authors": [
             "Sora"
