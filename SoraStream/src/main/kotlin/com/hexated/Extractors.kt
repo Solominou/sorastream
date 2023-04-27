@@ -22,7 +22,7 @@ class Sbnet : StreamSB() {
 
 class StreamM4u : XStreamCdn() {
     override val name: String = "StreamM4u"
-    override val mainUrl: String = "https://streamm4u.club"
+    override val mainUrl: String = "https://streamm4u.ws"
 }
 
 class Sblongvu : StreamSB() {
