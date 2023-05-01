@@ -38,26 +38,6 @@
         "name": "GoodPorn"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=www2.kickassanime.ro&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/sorastream",
-        "fileSize": 51610,
-        "status": 0,
-        "language": "en",
-        "authors": [
-            "Hexated"
-        ],
-        "tvTypes": [
-            "AnimeMovie",
-            "Anime",
-            "OVA"
-        ],
-        "version": 10,
-        "internalName": "Kickassanime",
-        "url": "https://raw.githubusercontent.com/Solominou/sorastream/builds/Kickassanime.cs3",
-        "name": "Kickassanime"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=kissasian.pe&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/sorastream",
@@ -97,204 +77,6 @@
         "name": "KisskhProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=kuramanime.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/sorastream",
-        "fileSize": 21607,
-        "status": 1,
-        "language": "id",
-        "authors": [
-            "Hexated"
-        ],
-        "tvTypes": [
-            "AnimeMovie",
-            "Anime",
-            "OVA"
-        ],
-        "version": 9,
-        "internalName": "KuramanimeProvider",
-        "url": "https://raw.githubusercontent.com/Solominou/sorastream/builds/KuramanimeProvider.cs3",
-        "name": "KuramanimeProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=45.12.2.2&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/sorastream",
-        "fileSize": 19771,
-        "status": 1,
-        "language": "id",
-        "authors": [
-            "Hexated"
-        ],
-        "tvTypes": [
-            "AnimeMovie",
-            "Anime",
-            "OVA"
-        ],
-        "version": 7,
-        "internalName": "KuronimeProvider",
-        "url": "https://raw.githubusercontent.com/Solominou/sorastream/builds/KuronimeProvider.cs3",
-        "name": "KuronimeProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=lk21official.org&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/sorastream",
-        "fileSize": 16394,
-        "status": 1,
-        "language": "id",
-        "authors": [
-            "Hexated"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 11,
-        "internalName": "LayarKacaProvider",
-        "url": "https://raw.githubusercontent.com/Solominou/sorastream/builds/LayarKacaProvider.cs3",
-        "name": "LayarKacaProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=moviehab.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/sorastream",
-        "fileSize": 18086,
-        "status": 1,
-        "language": "tl",
-        "authors": [
-            "Hexated"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 1,
-        "internalName": "Moviehab",
-        "url": "https://raw.githubusercontent.com/Solominou/sorastream/builds/Moviehab.cs3",
-        "name": "Moviehab"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=146.19.24.137&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/sorastream",
-        "fileSize": 15903,
-        "status": 1,
-        "language": "id",
-        "authors": [
-            "Hexated"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 1,
-        "internalName": "MultiplexProvider",
-        "url": "https://raw.githubusercontent.com/Solominou/sorastream/builds/MultiplexProvider.cs3",
-        "name": "MultiplexProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=neonime.watch&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/sorastream",
-        "fileSize": 20379,
-        "status": 1,
-        "language": "id",
-        "authors": [
-            "Hexated"
-        ],
-        "tvTypes": [
-            "AnimeMovie",
-            "Anime",
-            "Movie",
-            "OVA"
-        ],
-        "version": 6,
-        "internalName": "NeonimeProvider",
-        "url": "https://raw.githubusercontent.com/Solominou/sorastream/builds/NeonimeProvider.cs3",
-        "name": "NeonimeProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=nontonanimeid.site&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/sorastream",
-        "fileSize": 22701,
-        "status": 1,
-        "language": "id",
-        "authors": [
-            "Hexated"
-        ],
-        "tvTypes": [
-            "AnimeMovie",
-            "Anime",
-            "OVA"
-        ],
-        "version": 11,
-        "internalName": "NontonAnimeIDProvider",
-        "url": "https://raw.githubusercontent.com/Solominou/sorastream/builds/NontonAnimeIDProvider.cs3",
-        "name": "NontonAnimeIDProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=123tv.live&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/sorastream",
-        "fileSize": 16252,
-        "status": 0,
-        "language": "en",
-        "authors": [
-            "Hexated"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 3,
-        "internalName": "OnetwothreeTv",
-        "url": "https://raw.githubusercontent.com/Solominou/sorastream/builds/OnetwothreeTv.cs3",
-        "name": "OnetwothreeTv"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=65.108.132.145&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/sorastream",
-        "fileSize": 22909,
-        "status": 1,
-        "language": "id",
-        "authors": [
-            "Hexated"
-        ],
-        "tvTypes": [
-            "AnimeMovie",
-            "Anime",
-            "OVA"
-        ],
-        "version": 11,
-        "internalName": "OploverzProvider",
-        "url": "https://raw.githubusercontent.com/Solominou/sorastream/builds/OploverzProvider.cs3",
-        "name": "OploverzProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=otakudesu.watch&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/sorastream",
-        "fileSize": 21749,
-        "status": 1,
-        "language": "id",
-        "authors": [
-            "Hexated"
-        ],
-        "tvTypes": [
-            "AnimeMovie",
-            "Anime",
-            "OVA"
-        ],
-        "version": 10,
-        "internalName": "OtakudesuProvider",
-        "url": "https://raw.githubusercontent.com/Solominou/sorastream/builds/OtakudesuProvider.cs3",
-        "name": "OtakudesuProvider"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=en.paradisehill.cc&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/sorastream",
@@ -312,68 +94,6 @@
         "description": "Series porn (use VPN if links not working)",
         "url": "https://raw.githubusercontent.com/Solominou/sorastream/builds/Paradisehill.cs3",
         "name": "Paradisehill"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=phimmoichilla.net&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/sorastream",
-        "fileSize": 15402,
-        "status": 1,
-        "language": "vi",
-        "authors": [
-            "Hexated"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "Anime",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 4,
-        "internalName": "PhimmoichillProvider",
-        "url": "https://raw.githubusercontent.com/Solominou/sorastream/builds/PhimmoichillProvider.cs3",
-        "name": "PhimmoichillProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=104.237.198.194&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/sorastream",
-        "fileSize": 26296,
-        "status": 1,
-        "language": "id",
-        "authors": [
-            "Hexated"
-        ],
-        "tvTypes": [
-            "AsianDrama",
-            "Anime",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 5,
-        "internalName": "RebahinProvider",
-        "url": "https://raw.githubusercontent.com/Solominou/sorastream/builds/RebahinProvider.cs3",
-        "name": "RebahinProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=194.163.183.129&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/sorastream",
-        "fileSize": 20285,
-        "status": 1,
-        "language": "id",
-        "authors": [
-            "Hexated"
-        ],
-        "tvTypes": [
-            "AnimeMovie",
-            "OVA",
-            "Anime"
-        ],
-        "version": 7,
-        "internalName": "Samehadaku",
-        "url": "https://raw.githubusercontent.com/Solominou/sorastream/builds/Samehadaku.cs3",
-        "name": "Samehadaku"
     },
     {
         "iconUrl": "https://raw.githubusercontent.com/Solominou/sorastream/master/SoraStream/Icon.png",
@@ -418,26 +138,6 @@
         "name": "TimefourTv"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=tocanime.co&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/sorastream",
-        "fileSize": 14159,
-        "status": 1,
-        "language": "vi",
-        "authors": [
-            "Hexated"
-        ],
-        "tvTypes": [
-            "AnimeMovie",
-            "Anime",
-            "OVA"
-        ],
-        "version": 1,
-        "internalName": "TocanimeProvider",
-        "url": "https://raw.githubusercontent.com/Solominou/sorastream/builds/TocanimeProvider.cs3",
-        "name": "TocanimeProvider"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=topdocumentaryfilms.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/sorastream",
@@ -475,24 +175,6 @@
         "name": "Turkish"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=tv247.us&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/sorastream",
-        "fileSize": 9546,
-        "status": 0,
-        "language": "en",
-        "authors": [
-            "Hexated"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 2,
-        "internalName": "Tvtwofourseven",
-        "url": "https://raw.githubusercontent.com/Solominou/sorastream/builds/Tvtwofourseven.cs3",
-        "name": "Tvtwofourseven"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=uakino.club&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/sorastream",
@@ -511,24 +193,6 @@
         "internalName": "UakinoProvider",
         "url": "https://raw.githubusercontent.com/Solominou/sorastream/builds/UakinoProvider.cs3",
         "name": "UakinoProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=useetv.com&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/sorastream",
-        "fileSize": 9523,
-        "status": 1,
-        "language": "id",
-        "authors": [
-            "Hexated"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 2,
-        "internalName": "UseeTv",
-        "url": "https://raw.githubusercontent.com/Solominou/sorastream/builds/UseeTv.cs3",
-        "name": "UseeTv"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.wcofun.com&sz=%size%",
@@ -551,44 +215,6 @@
         "name": "WcofunProvider"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=xcine.io&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/sorastream",
-        "fileSize": 23428,
-        "status": 1,
-        "language": "de",
-        "authors": [
-            "Hexated"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 3,
-        "internalName": "Xcineio",
-        "url": "https://raw.githubusercontent.com/Solominou/sorastream/builds/Xcineio.cs3",
-        "name": "Xcineio"
-    },
-    {
-        "iconUrl": "https://raw.githubusercontent.com/Solominou/sorastream/master/Xcinetop/icon.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/sorastream",
-        "fileSize": 17551,
-        "status": 1,
-        "language": "de",
-        "authors": [
-            "Hexated"
-        ],
-        "tvTypes": [
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 3,
-        "internalName": "Xcinetop",
-        "url": "https://raw.githubusercontent.com/Solominou/sorastream/builds/Xcinetop.cs3",
-        "name": "Xcinetop"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=yomovies.rest&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/sorastream",
@@ -606,25 +232,6 @@
         "internalName": "YomoviesProvider",
         "url": "https://raw.githubusercontent.com/Solominou/sorastream/builds/YomoviesProvider.cs3",
         "name": "YomoviesProvider"
-    },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=yugen.to&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/sorastream",
-        "fileSize": 19681,
-        "status": 0,
-        "language": "en",
-        "authors": [
-            "Hexated"
-        ],
-        "tvTypes": [
-            "AnimeMovie",
-            "Anime",
-            "OVA"
-        ],
-        "version": 5,
-        "internalName": "YugenAnime",
-        "url": "https://raw.githubusercontent.com/Solominou/sorastream/builds/YugenAnime.cs3",
-        "name": "YugenAnime"
     }
-]
+    
+    ]
