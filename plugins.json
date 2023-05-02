@@ -175,26 +175,6 @@
         "name": "Turkish"
     },
     {
-        "iconUrl": "https://www.google.com/s2/favicons?domain=uakino.club&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/sorastream",
-        "fileSize": 16033,
-        "status": 1,
-        "language": "uk",
-        "authors": [
-            "Hexated"
-        ],
-        "tvTypes": [
-            "Anime",
-            "TvSeries",
-            "Movie"
-        ],
-        "version": 1,
-        "internalName": "UakinoProvider",
-        "url": "https://raw.githubusercontent.com/Solominou/sorastream/builds/UakinoProvider.cs3",
-        "name": "UakinoProvider"
-    },
-    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=www.wcofun.com&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/sorastream",
