@@ -94,10 +94,10 @@
             "Movie"
         ],
         "version": 106,
-        "internalName": "SoraStream",
+        "internalName": "SoloStream",
         "description": "#1 best extention based on MultiAPI",
         "url": "https://raw.githubusercontent.com/Solominou/sorastream/builds/SoraStream.cs3",
-        "name": "SoraStream"
+        "name": "SoloStream"
     },
     {
         "iconUrl": "https://www.google.com/s2/favicons?domain=time4tv.stream&sz=%size%",
