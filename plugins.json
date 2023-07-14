@@ -19,6 +19,28 @@
         "name": "Dizikorea"
     },
     {
+
+        "iconUrl": "https://www.google.com/s2/favicons?domain=franceiptv.fr/&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Solominou/sorastream",
+        "fileSize": 76919,
+        "status": 1,
+        "authors": [
+            "Eddy"
+        ],
+        "tvTypes": [
+            "Live",
+            "TvSeries",
+            "Movie",
+            "Anime"
+        ],
+        "version": 9,
+        "internalName": "MaciptvProvider",
+        "description": "Add your IPTV account or use the default account to watch Live TV, Movies,TvSeries ...",
+        "url": "https://raw.githubusercontent.com/Solominou/sorastream/builds/MaciptvProvider.cs3",
+        "name": "MaciptvProvider"
+    },
+    {
         "iconUrl": "https://www.google.com/s2/favicons?domain=kissasian.pe&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Solominou/sorastream",
