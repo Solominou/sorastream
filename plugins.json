@@ -35,28 +35,6 @@
             "Anime"
         ],
         "version": 9,
-        "internalName": "MciptvProvider",
-        "description": "Add your IPTV account or use the default account to watch Live TV, Movies,TvSeries ...",
-        "url": "https://raw.githubusercontent.com/Solominou/sorastream/builds/MciptvProvider.cs3",
-        "name": "MciptvProvider"
-    },
-    {
-
-        "iconUrl": "https://www.google.com/s2/favicons?domain=franceiptv.fr/&sz=%size%",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Solominou/sorastream",
-        "fileSize": 76919,
-        "status": 1,
-        "authors": [
-            "Eddy"
-        ],
-        "tvTypes": [
-            "Live",
-            "TvSeries",
-            "Movie",
-            "Anime"
-        ],
-        "version": 9,
         "internalName": "MaciptvProvider",
         "description": "Add your IPTV account or use the default account to watch Live TV, Movies,TvSeries ...",
         "url": "https://raw.githubusercontent.com/Solominou/sorastream/builds/MaciptvProvider.cs3",
